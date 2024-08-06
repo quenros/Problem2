@@ -1,5 +1,5 @@
 {
-  "homepage": "https://quenros.github.io/CodeChallenge/",
+  "homepage": "https://quenros.github.io/CodeChallenge",
   "name": "fancyform",
   "version": "0.1.0",
   "private": true,
@@ -48,7 +48,7 @@
   "devDependencies": {
     "gh-pages": "^6.1.1"
   },
-  "description": "",
+  "description": "fancyform",
   "main": "index.js",
   "author": "",
   "license": "ISC"
